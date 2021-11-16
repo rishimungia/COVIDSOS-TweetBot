@@ -1,0 +1,9 @@
+#RTA
+
+# consumer keys
+CONSUMER_KEY = 'GMXETRVjKHfXABxVErvnipHE0'
+CONSUMER_SECRET = 'Hs03y7sd8aHotjkgbQirdmBkuEv2QXOsjs05u2Gtv4q3IhAXxK'
+
+# access tokens
+ACCESS_TOKEN = '1378697655744745481-kmb2zgzsndlToivI2YXeyq1T3roGaZ'
+ACCESS_TOKEN_SECRET = 'Sp3IJDSrXRTHeMlRB1sc9dKslf1CYxumMObX9SE1ggUce'
