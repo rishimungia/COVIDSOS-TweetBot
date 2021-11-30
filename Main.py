@@ -8,14 +8,14 @@ from modules.searchSOS import search_sos
 from modules.backgroundScanTasks import t1
 
 # bot start
-saytext("Hello")
+saytext("Hi!")
 saytext("Starting Tweet Bot")
 threadstatus = True
 t1.start()
 
 while True:
     
-    print("\n\nTweet Bot Menu")
+    print("\nTweet Bot Menu")
     print("1. Make a Tweet")
     print("2. Check for unreplied Tweets")
     print("3. Covid Status")
@@ -24,7 +24,7 @@ while True:
     print("6. Search for #COVIDSOS")
     print("7. Exit Tweet Bot")
 
-    print("Enter your choice:")
+    print("\nEnter your choice:")
     choise=int(input())
     
     if choise == 1:
